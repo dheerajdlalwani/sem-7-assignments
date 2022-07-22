@@ -31,6 +31,9 @@ A YARN-based system for parallel processing of large data sets.
 
 ### Hadoop Distributed File System [HDFS]
 
+![image](https://user-images.githubusercontent.com/52416311/180464746-c5e977e9-45f1-4b05-a94c-b000ae9ffb54.png)
+
+
 - The master node keeps track of the status of all the data nodes. If a data node goes down, the master node takes over the processing of that block.
 - The slave nodes process the data on their own. HDFS requires a high-speed Internet connection. It is usually best to have at least a 10 Mbps network connection.
 - HDFS works on a time-based algorithm, which means that every block is processed in a predetermined time interval. 
