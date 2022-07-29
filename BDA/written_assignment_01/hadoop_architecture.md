@@ -1,3 +1,7 @@
+# BDA Written Assignment 1
+Roll number: 1902085
+Class: C2
+
 # Q1] Explain the hadoop architecture.
 
 ## Introduction
