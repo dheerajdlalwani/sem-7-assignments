@@ -1,4 +1,4 @@
-# Hadoop
+# Q1] Explain the hadoop architecture.
 
 ## Introduction
 

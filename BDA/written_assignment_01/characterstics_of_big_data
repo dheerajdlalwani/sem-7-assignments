@@ -1,0 +1,37 @@
+# Q2] Write briefly on the characterstics of Big Data Analytics.
+
+
+## 1) Volume
+- Volume refers to the massive amounts of data (we are talking about petabytes of data) that are collected and generated every second. For example, Walmart deals with data of about 1 million customer transactions every hour, which amounts to about 2.5 petabytes of data.
+- This information comes from different sources, including IoT devices, social media, videos, financial transactions, and customer records. We keep track of everything, including environmental data, financial data, medical data, surveillance data, and so on.
+- Take Amazon, for example, which gathers information from users as they explore the site, such as the amount of time they spend on each page. External databases, such as census data, are also used by the retailer to acquire demographic information. There’s even more data now than there has ever been.
+- As the term “Big Data” suggests, businesses have to deal with massive amounts of data. The data overwhelm organizations that don’t know how to manage it. However, with the correct technology platform, practically all the data can be analyzed. 
+
+
+
+
+## 2) Variety
+- It refers to the various types of data sources and their characteristics. Over time, the data sources have shifted. Previously, it could only be found in spreadsheets and databases.
+- Data can now be found in the form of photographs, audio files, videos, text files, and PDFs. Furthermore, it can be structured, unstructured, and semi-structured.
+- Plainly stated, variety refers to a fundamental change in analytical requirements from traditional organized data and toward raw, semi-structured, and unstructured data as part of the decision-making and insight process.
+- Traditional analytic platforms are incapable of handling a wide variety of data.
+
+
+## 3) Veracity
+- The term “veracity” refers to the data’s degree of reliability. Because a large portion of the data is unstructured and irrelevant, Big Data must find another way to filter out the irrelevant data and handle the rest.
+- Improving the accuracy of big data involves removing bias, irregularities or inconsistencies, duplication, and volatility, to name a few variables.
+- Improving the accuracy of big data involves removing bias, irregularities or inconsistencies, duplication, and volatility, to name a few factors. Data from a medical experiment or trial is an example of a high-veracity data set.
+- It needs to be free of all inconsistencies or redundancies. Popular cloud storage devices also have to maintain a high level of veracity.
+
+
+## 4) Velocity
+- The rate at which data is created or generated is referred to as “velocity”. This rate is closely related to the rate at which it is processed.
+- This is because the data can only meet the demands of the clients/users once it has been analyzed and processed.
+- It is the pace at which data flows from sources such as application logs, business processes, networks, social media sites, sensors, mobile devices, electronic gadgets, and so on.
+- In order to accommodate the ever-increasing rate of data, Data scientists have to formulate new ways of solving problems.
+
+
+## 5) Value
+- Value is likely the most essential of Big Data’s features. It doesn’t matter how quickly or how much data is generated; it has to be reliable and valuable.
+- Or else, the data is inadequate for processing or analysis. Raw data is initially converted into information by data scientists. The data is then cleansed to extract the most important information. 
+- This data set is subjected to analysis and pattern recognition. The data can be considered valuable if it serves a purpose and has various business use cases.
